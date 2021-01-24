@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to TemperatureAPI 👋</h1>
-<p>
-  <a href="https://twitter.com/kammzinho" target="_blank">
-    <img alt="Twitter: kammzinho" src="https://img.shields.io/twitter/follow/kammzinho.svg?style=social" />
-  </a>
+
+<p align="center">
+  <img src="./.images/temperature.png" />
 </p>
 
 > Just a study using golang for raspberry temperature monitoring
